@@ -1,0 +1,32 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Virtu-All Hand 2020 Blue",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/bg-000-5672c42860d5b06e1058dc477397f3ef.svg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgba(55, 69, 204, 0.01)",
+      "toolbar_text": "rgb(254, 255, 255)",
+      "frame": "rgb(50, 55, 207)",
+      "tab_background_text": "rgb(255, 97, 145)",
+      "toolbar_field": "rgb(255, 255, 255)",
+      "toolbar_field_text": "rgb(0, 0, 0)",
+      "tab_line": "rgb(255, 97, 145)",
+      "popup": "rgb(254, 255, 255)",
+      "popup_text": "rgb(50, 55, 207)",
+      "tab_loading": "rgb(255, 97, 145)"
+    }
+  }
+}
